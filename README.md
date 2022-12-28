@@ -1,2 +1,1 @@
-# vscodeneovim_configs
 
